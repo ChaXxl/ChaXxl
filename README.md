@@ -1,11 +1,12 @@
 <div align="center">
-  ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)](https://git.io/typing-svg)
-  
-  ## Languages & Techologies<br>
-  ![C++](https://img.shields.io/badge/C%2B%2B-blue)
-  ![C](https://img.shields.io/badge/C-orange)
-  ![Python](https://img.shields.io/badge/Python-purple)
-  ![Static Badge](https://img.shields.io/badge/QML-lightgreen)
+    <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a>
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+      <img src="https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+<!--    [![Typing SVG](https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)](https://git.io/typing-svg) -->
   
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
@@ -20,6 +21,12 @@
   </div>
 
 </div>
+
+## Languages & Techologies<br>
+![C++](https://img.shields.io/badge/C%2B%2B-blue)
+![C](https://img.shields.io/badge/C-orange)
+![Python](https://img.shields.io/badge/Python-purple)
+![Static Badge](https://img.shields.io/badge/QML-lightgreen)
 
 <br/>  
 
