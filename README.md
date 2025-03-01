@@ -19,7 +19,10 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=ChaXxl&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
+
+  <div></div>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
 </div>
 
 
