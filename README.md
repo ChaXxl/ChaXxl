@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## Languages & Techologies<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-blue)
