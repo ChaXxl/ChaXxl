@@ -1,5 +1,5 @@
 
-<div align="center">
+<div style="text-align: center;">
     <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="javascript:void(0);">
