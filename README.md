@@ -22,7 +22,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" margin-top="20px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
 </div>
 
