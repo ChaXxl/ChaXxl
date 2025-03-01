@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Languages & Techologies<br>
+## Languages & Techologies<br>
 ![C++](https://img.shields.io/badge/C%2B%2B-blue)
 ![C](https://img.shields.io/badge/C-orange)
 ![Python](https://img.shields.io/badge/Python-purple)
