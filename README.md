@@ -25,9 +25,11 @@
 <!-- 居中的 Languages & Technologies 部分 -->
 <div style="text-align: center; margin-top: 20px;">
     <h2>Languages & Technologies</h2>
-    <img src="https://img.shields.io/badge/C%2B%2B-blue" alt="C++" />
-    <img src="https://img.shields.io/badge/C-orange" alt="C" />
-    <img src="https://img.shields.io/badge/Python-purple" alt="Python" />
-    <img src="https://img.shields.io/badge/QML-lightgreen" alt="QML" />
+    <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+        <img src="https://img.shields.io/badge/C%2B%2B-blue" alt="C++" />
+        <img src="https://img.shields.io/badge/C-orange" alt="C" />
+        <img src="https://img.shields.io/badge/Python-purple" alt="Python" />
+        <img src="https://img.shields.io/badge/QML-lightgreen" alt="QML" />
+    </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
 </div>
