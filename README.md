@@ -3,7 +3,7 @@
   <div align="center">
     <a href="javascript:void(0);">
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-      <img src="https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl&center=true&size=25" alt="Typing SVG" />
     </a>
   </div>
   
