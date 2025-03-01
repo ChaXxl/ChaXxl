@@ -31,5 +31,7 @@
         <img src="https://img.shields.io/badge/Python-purple" alt="Python" />
         <img src="https://img.shields.io/badge/QML-lightgreen" alt="QML" />
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaXxl&theme=dark&layout=compact&cache_seconds=30" alt="Most Used Languages" />
+    </div>
 </div>
