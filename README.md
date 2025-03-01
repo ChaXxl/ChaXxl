@@ -3,10 +3,9 @@
   <div align="center">
     <a href="javascript:void(0);">
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-      <img src="https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-<!--    [![Typing SVG](https://readme-typing-svg.demolab.com?font=3373&pause=1000&width=435&lines=Hi+there%2C+here+is+ChaXxl)](https://git.io/typing-svg) -->
   
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
